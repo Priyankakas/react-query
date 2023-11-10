@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Rohanetr5",
+      "age": 25
+    },
+    {
+      "name": "Priyanka K",
+      "age": "23",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Nirmala",
+      "age": "44"
+    }
+  ],
+  "hobbies": [
+    {
+      "id": 1,
+      "hobby": "Dancing",
+      "level": "Intermediate"
+    },
+    {
+      "id": 2,
+      "hobby": "Travelling",
+      "level": "Expert"
+    },
+    {
+      "id": 3,
+      "hobby": "Drawing",
+      "level": "Beginner"
+    },
+    {
+      "id": 4,
+      "hobby": "Binge Watching",
+      "level": "Beginner"
+    },
+    {
+      "id": 5,
+      "hobby": "Badminton",
+      "level": "Expert"
+    },
+    {
+      "id": 6,
+      "hobby": "Cricket",
+      "level": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "id": 1,
+      "likes": [
+        "Dancing",
+        "Travelling",
+        "Singing"
+      ]
+    },
+    {
+      "id": 2,
+      "likes": [
+        "Hiking",
+        "Dancing"
+      ]
+    },
+    {
+      "id": 3,
+      "likes": [
+        "Movie",
+        "Drawing",
+        "Painting"
+      ]
+    },
+    {
+      "id": 4,
+      "likes": [
+        "Movie",
+        "Painting"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "itemName": "TV",
+      "cost": 10000
+    },
+    {
+      "id": 2,
+      "itemName": "Fridge",
+      "cost": 5000
+    },
+    {
+      "id": 3,
+      "itemName": "Mobile",
+      "cost": 50000
+    },
+    {
+      "id": 4,
+      "itemName": "Pendrive",
+      "cost": 500
+    },
+    {
+      "id": 5,
+      "itemName": "Charger",
+      "cost": 100
+    },
+    {
+      "id": 6,
+      "itemName": "Earphones",
+      "cost": 500
+    }
+  ]
+}
