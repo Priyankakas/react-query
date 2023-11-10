@@ -1,5 +1,6 @@
 # react-query
 This is basic React Query Application which demonstatrates basic use of react query in application.
+
 1.RQUsers tab demonstrate CRUD operations using react query with useMutation and useQuery.
 
 2.GetInterests button click get interests after users list is fetch based on dependent queries
